@@ -5,3 +5,4 @@ langchain-openai
 chromadb
 tiktoken
 langchain-community
+langchain_google_genai
