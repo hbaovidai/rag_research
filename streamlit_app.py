@@ -39,7 +39,7 @@ def generate_response(input_text):
 
 # Page title
 st.title = "FINAL PROJECT"
-openai_api_key = st.sidebar.text_input("OpenAI API Key","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", type="password")
+openai_api_key = st.sidebar.text_input("OpenAI API Key","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", type="password")
 
 # File upload
 uploaded_file=st.file_uploader('Upload your file:',type='txt')
